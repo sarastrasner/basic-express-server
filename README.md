@@ -5,7 +5,7 @@
 ### Author: Sara Strasner
 
 ### Links and Resources
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/sarastrasner/basic-express-server/actions)
 - [front-end application](https://sarastrasner-express-server.herokuapp.com/) 
 
 ### Setup
