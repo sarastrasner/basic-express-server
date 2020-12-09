@@ -5,6 +5,7 @@
 ### Author: Sara Strasner
 
 ### Links and Resources
+- [Latest PR](https://github.com/sarastrasner/basic-express-server/pull/3)
 - [ci/cd](https://github.com/sarastrasner/basic-express-server/actions)
 - [front-end application](https://sarastrasner-express-server.herokuapp.com/) 
 
