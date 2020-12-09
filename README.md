@@ -5,32 +5,25 @@
 ### Author: Sara Strasner
 
 ### Links and Resources
-
 - [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [front-end application](https://sarastrasner-express-server.herokuapp.com/) 
 
 ### Setup
 
 #### `.env` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 3000
 
 #### How to initialize/run your application (where applicable)
 
 - e.g. `npm start`
 
-#### How to use your library (where applicable)
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- The tests all run via jest in the terminal.
+- For some reason my seond validator test is passing even though it is sending the wrong status code. Cait (TA) and I looked at it for a while and couldn't figure it out. 
+- I wrote the first 4 out of 5 tests. I did not attempt the test "given an name in the query string, the output object is correct." Lena mentioned wanting to see effort, not necessarily 100% passing results for the validator tests. The other two were very challenging for me so I omitted the third.
 
 #### UML
-
-Link to an image of the UML for your application and response to events
+![UML](./assets/UML.JPG)
